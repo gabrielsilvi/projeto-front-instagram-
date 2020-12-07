@@ -1,1 +1,1 @@
-# projeto-front-instagram-
+# projeto-front-end-instagram
